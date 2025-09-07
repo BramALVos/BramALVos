@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BramALVos
-- 👀 I’m interested in computers and math
-- 🌱 I’m currently learning the Rust programming language
+- 👀 I’m interested in computers, physics and math
+- 🌱 I’m currently learning about algorithms and BigOhh notation
 - 💞️ I’m looking to collaborate on vosof
 
 <!---
